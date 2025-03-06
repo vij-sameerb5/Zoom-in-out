@@ -1,4 +1,4 @@
-Zoom-in & Out Picture Using Hand Gestures 
+**Zoom-in & Out Picture Using Hand Gestures **
 (Python OpenCV Project)
 This project demonstrates a Python application that enables you to zoom in and out of any image using hand gestures. It uses the OpenCV library in combination with the cvzone module to detect and track hand gestures, allowing you to easily control the zoom level of the image.
 
