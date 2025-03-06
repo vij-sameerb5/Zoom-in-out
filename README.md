@@ -1,4 +1,3 @@
-Here's a summarized version of your repository description with the project name emphasized:
 
 # Zoom-in-out
 
